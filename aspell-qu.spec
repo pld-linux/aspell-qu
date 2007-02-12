@@ -1,5 +1,5 @@
 Summary:	Quechua dictionary for aspell
-Summary(pl.UTF-8):   Słownik keczuański dla aspella
+Summary(pl.UTF-8):	Słownik keczuański dla aspella
 Name:		aspell-qu
 Version:	0.02
 %define	subv	0
