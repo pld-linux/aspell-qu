@@ -1,5 +1,5 @@
 Summary:	Quechua dictionary for aspell
-Summary(pl):	S≥ownik keczuaÒski dla aspella
+Summary(pl.UTF-8):   S≈Çownik keczua≈Ñski dla aspella
 Name:		aspell-qu
 Version:	0.02
 %define	subv	0
@@ -17,8 +17,8 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 Quechua dictionary (i.e. word list) for aspell.
 
-%description -l pl
-S≥ownik keczuaÒski (lista s≥Ûw) dla aspella.
+%description -l pl.UTF-8
+S≈Çownik keczua≈Ñski (lista s≈Ç√≥w) dla aspella.
 
 %prep
 %setup -q -n aspell6-qu-%{version}-%{subv}
