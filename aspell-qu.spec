@@ -7,7 +7,7 @@ Release:	1
 Epoch:		1
 License:	GPL v2+
 Group:		Applications/Text
-Source0:	ftp://ftp.gnu.org/gnu/aspell/dict/qu/aspell6-qu-%{version}-%{subv}.tar.bz2
+Source0:	http://ftp.gnu.org/gnu/aspell/dict/qu/aspell6-qu-%{version}-%{subv}.tar.bz2
 # Source0-md5:	b1c4a68fd5f46cadb600d925b0764fa5
 URL:		http://aspell.sourceforge.net/
 BuildRequires:	aspell >= 3:0.60
